@@ -4,8 +4,8 @@ This repository is created as a part of DS assignment in the year 2019-2019 duri
 
 The video explains the concept of Lowest Common Ancestor in Binary Search Tree and the .pdf is the background source.
 
-The video is recorded using Kazam Screen Recorder.
+The video is recorded using Kazam Screen Recorder. I would suggest using headphones as the quality of sound is a bit low. 
                                                                                                                     
                                                                                                                     
-                                                                                                                -Yaswant R
-                                                                                                                -AM.EN.U4CSE18162
+                                            -Yaswant R
+                                            -AM.EN.U4CSE18162
